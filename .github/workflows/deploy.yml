@@ -1,6 +1,7 @@
 name: intento
-on: push
-jobs:
-  primer-version:
-    runs-on: ubuntu-latest
+on: 
+  push:
+    branches:
+      - master
+
     
