@@ -1,5 +1,5 @@
 name: intento
-on: master
+on: push
 jobs:
   primer-version:
     runs-on: ubuntu-latest
